@@ -1,5 +1,5 @@
 # scene-recognition-app
-This web apps intend is to predict, given an image, what the general scene on said image is. 
+This web app's intend is to predict, given an image, what the general scene on said image is. 
 
 It can then predict the following scenes:
 
