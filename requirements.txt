@@ -116,8 +116,8 @@ pyspark @ file:///tmp/build/80754af9/pyspark_1623682115299/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
-pywin32==228
-pywinpty==0.5.7
+#pywin32==228
+#pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq @ file:///C:/ci/pyzmq_1628276569449/work
 regex==2022.1.18
